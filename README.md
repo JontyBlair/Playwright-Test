@@ -1,2 +1,2 @@
-# PlaywrightTest
+# Playwright-Test
 Playwright Test Repository
